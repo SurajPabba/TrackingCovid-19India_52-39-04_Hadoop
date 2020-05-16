@@ -65,10 +65,9 @@ hadoop dfs -copyToLocal /user/woir_hadoop/ /home/woir/Downloads/CovidStats
 You can check the HDFS using the below link-
 http://localhost:50070/explorer.html#/user/woir_hadoop/output
 
-CovidStats folder consists of all the java code,class files,input datasets and the outpts generated
-Documentation folder consists of the documentation of the project
-Graphs folder consists of all the grpahs generated on application of output using matplotlib
-Implementation Videos folders consists of all the videos of the implementation
-jarFiles folder consists of all the required jar files for the project
-Output screenshots are present in the output screenshots folder
-
+CovidStats folder consists of all the java code,class files,input datasets and the outpts generated  
+Documentation folder consists of the documentation of the project  
+Graphs folder consists of all the grpahs generated on application of output using matplotlib  
+Implementation Videos folders consists of all the videos of the implementation  
+jarFiles folder consists of all the required jar files for the project  
+Output screenshots are present in the output screenshots folder  
